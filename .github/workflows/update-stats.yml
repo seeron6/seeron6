@@ -1,0 +1,39 @@
+name: Update GitHub stats
+
+"on":
+  schedule:
+    - cron: "23 5 * * *"   # daily at 05:23 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # fetch_github_stats.py and render_stats.py use only the Python standard
+      # library, so there is nothing to install.
+      - name: Fetch stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_github_stats.py
+
+      - name: Render stat cards
+        run: python scripts/render_stats.py
+
+      - name: Commit refreshed cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh github stats [skip ci]"
+          file_pattern: "data/github-stats.json github-stats.svg top-langs.svg"

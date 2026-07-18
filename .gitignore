@@ -1,0 +1,14 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# generated intermediate (portrait is rebuilt from source-photo.jpg)
+source-prepped.png
+
+# rembg model cache
+.u2net/
+
+# local preview scaffolding
+_preview.html
+_light.html

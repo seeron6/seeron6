@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="Seeron Sivashankar GitHub stats">
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  .panel{fill:#0d1117;stroke:#30363d}
+  .title{fill:#58a6ff;font-weight:700;font-size:17px}
+  .label{fill:#c9d1d9;font-size:14px}
+  .value{fill:#ffffff;font-weight:700;font-size:14px}
+  .muted{fill:#8b949e;font-size:13px}
+  .accent{fill:#58a6ff}
+  .rule{stroke:#21262d}
+  @media (prefers-color-scheme: light){
+    .panel{fill:#ffffff;stroke:#d0d7de}
+    .title{fill:#0969da} .label{fill:#1f2328} .value{fill:#000000}
+    .muted{fill:#59636e} .accent{fill:#0969da} .rule{stroke:#d8dee4}
+  }
+  .rv{animation:glow 2.4s ease-out forwards}
+  @keyframes glow{0%{filter:none}9%{filter:drop-shadow(0 0 5px currentColor)}
+    26%{filter:none}100%{filter:none}}
+  @media (prefers-reduced-motion: reduce){.rv{animation:none}}
+  #s0{animation-delay:0.15s}
+  #s1{animation-delay:0.27s}
+  #s2{animation-delay:0.39s}
+  #s3{animation-delay:0.51s}
+  #s4{animation-delay:0.63s}
+</style>
+<rect class="panel" x="1" y="1" width="478" height="198" rx="10" stroke-width="1.5"/>
+<text class="title" x="24" y="36">Seeron Sivashankar’s GitHub Stats</text>
+<line class="rule" x1="24" y1="50" x2="456" y2="50" stroke-width="1"/>
+<g class="rv" id="s0"><circle class="accent" cx="29" cy="75" r="3.5"/><text class="label" x="42" y="80">Commits (last year)</text><text class="value" x="456" y="80" text-anchor="end">226</text></g>
+<g class="rv" id="s1"><circle class="accent" cx="29" cy="98" r="3.5"/><text class="label" x="42" y="103">Pull Requests</text><text class="value" x="456" y="103" text-anchor="end">65</text></g>
+<g class="rv" id="s2"><circle class="accent" cx="29" cy="121" r="3.5"/><text class="label" x="42" y="126">Public Repositories</text><text class="value" x="456" y="126" text-anchor="end">27</text></g>
+<g class="rv" id="s3"><circle class="accent" cx="29" cy="144" r="3.5"/><text class="label" x="42" y="149">Stars Earned</text><text class="value" x="456" y="149" text-anchor="end">0</text></g>
+<g class="rv" id="s4"><circle class="accent" cx="29" cy="167" r="3.5"/><text class="label" x="42" y="172">Followers</text><text class="value" x="456" y="172" text-anchor="end">1</text></g>
+</svg>

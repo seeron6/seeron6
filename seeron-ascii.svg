@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 717.6 962.0" width="717.6" height="962.0" role="img" aria-label="ASCII portrait of Seeron Sivashankar">
+<style>
+  text{font-family:'Courier New',Courier,monospace;font-size:13.0px;white-space:pre}
+  .base{fill:#ffffff;opacity:0.55}
+  .lit{fill:#ffffff;animation:wipe 0.5s cubic-bezier(.4,0,.2,1) both}
+  @keyframes wipe{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}
+  @media (prefers-color-scheme: light){
+    .base{fill:#000000}
+    .lit{fill:#000000}
+  }
+  @media (prefers-reduced-motion: reduce){.lit{animation:none;clip-path:none}}
+  #l3{animation-delay:0.078s}
+  #l4{animation-delay:0.104s}
+  #l5{animation-delay:0.13s}
+  #l6{animation-delay:0.156s}
+  #l7{animation-delay:0.182s}
+  #l8{animation-delay:0.208s}
+  #l9{animation-delay:0.234s}
+  #l10{animation-delay:0.26s}
+  #l11{animation-delay:0.286s}
+  #l12{animation-delay:0.312s}
+  #l13{animation-delay:0.338s}
+  #l14{animation-delay:0.364s}
+  #l15{animation-delay:0.39s}
+  #l16{animation-delay:0.416s}
+  #l17{animation-delay:0.442s}
+  #l18{animation-delay:0.468s}
+  #l19{animation-delay:0.494s}
+  #l20{animation-delay:0.52s}
+  #l21{animation-delay:0.546s}
+  #l22{animation-delay:0.572s}
+  #l23{animation-delay:0.598s}
+  #l24{animation-delay:0.624s}
+  #l25{animation-delay:0.65s}
+  #l26{animation-delay:0.676s}
+  #l27{animation-delay:0.702s}
+  #l28{animation-delay:0.728s}
+  #l29{animation-delay:0.754s}
+  #l30{animation-delay:0.78s}
+  #l31{animation-delay:0.806s}
+  #l32{animation-delay:0.832s}
+  #l33{animation-delay:0.858s}
+  #l34{animation-delay:0.884s}
+  #l35{animation-delay:0.91s}
+  #l36{animation-delay:0.936s}
+  #l37{animation-delay:0.962s}
+  #l38{animation-delay:0.988s}
+  #l39{animation-delay:1.014s}
+  #l40{animation-delay:1.04s}
+  #l41{animation-delay:1.066s}
+  #l42{animation-delay:1.092s}
+  #l43{animation-delay:1.118s}
+  #l44{animation-delay:1.144s}
+  #l45{animation-delay:1.17s}
+  #l46{animation-delay:1.196s}
+  #l47{animation-delay:1.222s}
+  #l48{animation-delay:1.248s}
+  #l49{animation-delay:1.274s}
+  #l50{animation-delay:1.3s}
+  #l51{animation-delay:1.326s}
+  #l52{animation-delay:1.352s}
+  #l53{animation-delay:1.378s}
+  #l54{animation-delay:1.404s}
+  #l55{animation-delay:1.43s}
+  #l56{animation-delay:1.456s}
+  #l57{animation-delay:1.482s}
+  #l58{animation-delay:1.508s}
+  #l59{animation-delay:1.534s}
+  #l60{animation-delay:1.56s}
+  #l61{animation-delay:1.586s}
+  #l62{animation-delay:1.612s}
+  #l63{animation-delay:1.638s}
+</style>
+<rect width="100%" height="100%" fill="none"/>
+<g class="base" xml:space="preserve">
+<text x="0" y="57.11" textLength="374.4" lengthAdjust="spacingAndGlyphs">                                     .`..`......</text>
+<text x="0" y="72.06" textLength="390.0" lengthAdjust="spacingAndGlyphs">                                 .====+::+++==*c+:</text>
+<text x="0" y="87.01" textLength="436.8" lengthAdjust="spacingAndGlyphs">                                -#@s+**+=+cs#s++c*++=-=`</text>
+<text x="0" y="101.96" textLength="460.2" lengthAdjust="spacingAndGlyphs">                               -*%@%@@%%%%%%%@%ssscss**===`</text>
+<text x="0" y="116.91" textLength="475.8" lengthAdjust="spacingAndGlyphs">                              `=+s###%@@@@@@@@@@@%s#####*=+*.</text>
+<text x="0" y="131.86" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              -+ccs#%%sc**+++*c#%@@###%sc**cs`</text>
+<text x="0" y="146.81" textLength="483.6" lengthAdjust="spacingAndGlyphs">                             `%%%%@%*`          `-*#@@%%%%%#sc</text>
+<text x="0" y="161.76" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             :@@@@@-              .:+s%%@%#%#%c</text>
+<text x="0" y="176.71" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             `%@@#-..                 `=c@@%%%s</text>
+<text x="0" y="191.66" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             .#%c  .`-=*c*=.     .=*=----+s%@@-</text>
+<text x="0" y="206.61" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              s#. :=*csssss*=:``-+cc*+==+: *@c</text>
+<text x="0" y="221.56" textLength="475.8" lengthAdjust="spacingAndGlyphs">                              -c=cs#s#sccs%%%+`+s##*=+cc+#*c=</text>
+<text x="0" y="236.51" textLength="475.8" lengthAdjust="spacingAndGlyphs">                               #c*+ccs%@@#s*+   -c#@@#c+=-=s:</text>
+<text x="0" y="251.46" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              .*``.:===*+-:=.    .`-=-`.`  :+:</text>
+<text x="0" y="266.41" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             s*:::`... . .`.``...         ```s.</text>
+<text x="0" y="281.36" textLength="491.4" lengthAdjust="spacingAndGlyphs">                            :#=+-=-:.    .=%@%##%s`..    `:::=.</text>
+<text x="0" y="296.31" textLength="483.6" lengthAdjust="spacingAndGlyphs">                             :---+++==-:  :**s#c=-. .```:--:``</text>
+<text x="0" y="311.26" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              -.=**ccc*:-scssc*cc*+c-.:=+-==..</text>
+<text x="0" y="326.21" textLength="475.8" lengthAdjust="spacingAndGlyphs">                               -+**ccc=-+ss+:::::-*#s-:=+=+=.</text>
+<text x="0" y="341.16" textLength="460.2" lengthAdjust="spacingAndGlyphs">                                 :cccc+*=`:+cs##s=``=++*++=</text>
+<text x="0" y="356.11" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                  cscss*-:`::--::````=***c</text>
+<text x="0" y="371.06" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                  :#%##s-```````.``.:*cs#=</text>
+<text x="0" y="386.01" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                   +#@@%sss#ssssscc*s%@@*.</text>
+<text x="0" y="400.96" textLength="460.2" lengthAdjust="spacingAndGlyphs">                                   -+s%@@@@@@@@@@@@@@@s=.:.</text>
+<text x="0" y="415.91" textLength="468.0" lengthAdjust="spacingAndGlyphs">                                   ::-*s#@@@@@@@@%#c+:..-+*`</text>
+<text x="0" y="430.86" textLength="491.4" lengthAdjust="spacingAndGlyphs">                                  -+:::-=*s#%%#c*=:`. .=c+c-.`.</text>
+<text x="0" y="445.81" textLength="522.6" lengthAdjust="spacingAndGlyphs">                                 .*cc+:`.`=*csc*=:.  :cs*+#=.``````</text>
+<text x="0" y="460.76" textLength="561.6" lengthAdjust="spacingAndGlyphs">                               .::+ccss*-```-=-:`..-csc***%+``````--::`.</text>
+<text x="0" y="475.71" textLength="592.8" lengthAdjust="spacingAndGlyphs">                         ```::::::=#c#@@#c*+=----+ssc++++c@+:::::``--::::``.</text>
+<text x="0" y="490.66" textLength="616.2" lengthAdjust="spacingAndGlyphs">                     .`:````:---::-#s%@@@@%##s#ssscsss##s#%=:::--:``:----:````.</text>
+<text x="0" y="505.61" textLength="639.6" lengthAdjust="spacingAndGlyphs">                ..`:---::-::------:s%#ss#%@@sssss#@@@@@@%s%=::::----==-==-:::```..</text>
+<text x="0" y="520.56" textLength="694.2" lengthAdjust="spacingAndGlyphs">         .````::----:.:===-======-:c@@@@@%##%%%%@@@@@@@%@#%=::::-=-  :+-=----::::``````:.</text>
+<text x="0" y="535.51" textLength="694.2" lengthAdjust="spacingAndGlyphs">       `-::::-===-:``:+=---==+++=-:+@##ccs%@@@@@@@@%%@@@%s%=:::--=+`.:--=---------::::-:=</text>
+<text x="0" y="550.46" textLength="694.2" lengthAdjust="spacingAndGlyphs">      ::--`:---::`:-+*c+-===+*++=-::#@%%@@@%%s**s%@%ss%@@%%=::::-==`+-:=+=========--=-+==</text>
+<text x="0" y="565.41" textLength="702.0" lengthAdjust="spacingAndGlyphs">      ----:------=+****c-=++**+==-::c#ssccc**c=+++cs#%%#s%#=:::::=:.=--+=======+++++++c+*.</text>
+<text x="0" y="580.36" textLength="702.0" lengthAdjust="spacingAndGlyphs">      ::-=-=====++++++==+=++*++==-:`+s**++==+c**+++==++**ss-:::::=.`=-=+=====+*++****cc+%c</text>
+<text x="0" y="595.31" textLength="702.0" lengthAdjust="spacingAndGlyphs">     `:-=+=+++++=====-::+++++++==-:`-sc*+===+*====-===+**ss:::-=-= :=-=+====+*cc*ccsc#cc*-</text>
+<text x="0" y="610.26" textLength="702.0" lengthAdjust="spacingAndGlyphs">    `-==+*+++++++=-::::-**=+++===--``cs*++===*=:`+++==+**#c:::=++-.---+=====+*csssss##ss*=</text>
+<text x="0" y="625.21" textLength="709.8" lengthAdjust="spacingAndGlyphs">   `:==++c***+++=----=+**s+======--:`*sc*+==+#c*+===-=+*c#*`::-+=:`=-==--=====*ssss#%sssc*`</text>
+<text x="0" y="640.16" textLength="709.8" lengthAdjust="spacingAndGlyphs">  `:-==++cc**+====++****+*c===--==-:`=#s+=+c#@*===+++++*c#+`:-=---:=-+---======*sss#%ssc*+-</text>
+<text x="0" y="655.11" textLength="709.8" lengthAdjust="spacingAndGlyphs"> .:--==+*cs**+++***+++==--*+-----==-``#s*s#%##c=====+**csc+`:---=`=-==---===++==*ss##ss***=</text>
+<text x="0" y="670.06" textLength="709.8" lengthAdjust="spacingAndGlyphs"> ::-==++cs#c**cc**++=-----=c=----==-:`+%%%#ss#s++++==**sc*-:--=+`---=---=====+***cs#sssc**=</text>
+<text x="0" y="685.01" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-=+**ccs%cccc***++=======**:-------`:#%#ssc#s+**cc**cs+c-:---:==:=+===+++++***cc##ssc***=.</text>
+<text x="0" y="699.96" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-=+cssss%sccc***+++++==---*=::-----``+#sssc##ccsccss#*+*``:::==:-+=+++*****ccc*c#scc*++*=.</text>
+<text x="0" y="714.91" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-==+csss%s*c**++++===--::::*-:::---:`-*#ssc#%##%###%#=s*`:------++=+****+*++***s@c+sc=:-=`</text>
+<text x="0" y="729.86" textLength="717.6" lengthAdjust="spacingAndGlyphs">`::-=-:=*#@#**+++======--:--:=*::-----`--cscss#s*-%%%%+*#+.::----+*+=====--=++***%@#-*#s=.::</text>
+<text x="0" y="744.81" textLength="717.6" lengthAdjust="spacingAndGlyphs">`.`---+***#%**+==--------==---*+::----``+=@@@@@@%c#s#**s#-`:-----+++++++++===+*cs%@%*:*ss=.`</text>
+<text x="0" y="759.76" textLength="717.6" lengthAdjust="spacingAndGlyphs">..-=====-c@@*+=-::------======-*=:---=-.+-*@@@@##%%@s+sss`:--===***ccscc*+++*cc*s@@@#-:+s#=.</text>
+<text x="0" y="774.71" textLength="717.6" lengthAdjust="spacingAndGlyphs"> -=-==+=*#%@c++=--:-=+++++***+==c=:----`:*`s@@@sss#s+cc#=`--=+=cs##ssc*=-=+cc*++%@@%%c`.=*s=</text>
+<text x="0" y="789.66" textLength="717.6" lengthAdjust="spacingAndGlyphs">:==+**+=*#@@s+++++=--=*cccsssscccs--==-:`+=:#%%ccc*=*ccc:--=++*%#sc*+-::+*cc*+=*@@@%#s+..:+s</text>
+<text x="0" y="804.61" textLength="717.6" lengthAdjust="spacingAndGlyphs">++**+-.=s%@@%+*cc*++=---+*cccssss#s--===`-=:-s#cc+=***s=:===++#sc*=-::-+cc*+==-#@@@#ssc=..`=</text>
+<text x="0" y="819.56" textLength="717.6" lengthAdjust="spacingAndGlyphs">+++-. =#%@@@@*csc****+-``:-==+**cc#s-=++-`-:-=%@s+***cc`====+c*=-:``-+ccc+=---+@@@@#sccc=...</text>
+<text x="0" y="834.51" textLength="717.6" lengthAdjust="spacingAndGlyphs">==: .+###%@@@ccc*******=-::::::--=+sc-=+=`:==+cc==+*cs-:=+=+*+-:`:-+csc*+---=-s@@@%#c+*ss+..</text>
+<text x="0" y="849.46" textLength="717.6" lengthAdjust="spacingAndGlyphs">+- `*scc#%@@@scc******c*+=-::::`:::-c*-++-`=++==-=*cs*`=+++*=:::=+cssc++=---==@@@@%#s=-+s#+`</text>
+<text x="0" y="864.41" textLength="717.6" lengthAdjust="spacingAndGlyphs">` `*c**s#%@@@sssc*****c***+==--:````:**-++::c+cs%%scc:-+++*=:-=*sssc*+=======*@@@%###*``-cs*</text>
+<text x="0" y="879.36" textLength="717.6" lengthAdjust="spacingAndGlyphs"> .+****c#%@@@ssscc**ccc******++=-:::``+*-==:cc%@#**s+`===*=:-+cs#sc++++++====s@@%%####*: `+c</text>
+<text x="0" y="894.31" textLength="717.6" lengthAdjust="spacingAndGlyphs">`=*****c#%@@@###ssc*ccc*********+=--:::+*-=--c**=+s#:===*+=+*cssscc***+++==++ c@#######s+` `</text>
+<text x="0" y="909.26" textLength="717.6" lengthAdjust="spacingAndGlyphs">=+*****cs%@@@****cccsssc******++====--::*c-=:*cc#%@+:==**+*ccss#ssc**+++=+++: s%####%%@@@%s+</text>
+<text x="0" y="924.21" textLength="717.6" lengthAdjust="spacingAndGlyphs">+*ccc***s@@@* =--=+css#sccc****++==----=+#s--=#sc#s`=-**+*cssssscc*+++++*+=- .%#scssssssssss</text>
+<text x="0" y="939.16" textLength="717.6" lengthAdjust="spacingAndGlyphs">*c*=:::=#@@@  -+`::-=*csssc****++=====+++*%#-:ccc%-:-*c+*cssssc***++**+++=-:`%@@@%%%%#sc=...</text>
+<text x="0" y="954.11" textLength="717.6" lengthAdjust="spacingAndGlyphs">+-:`..`c%@@c  `+=``.``-+csccc*+++++++++*++c@#-=%@c.:+c**ssscc*++++*****++-`:.#@@@@@@%#s*+***</text>
+</g>
+<g class="" xml:space="preserve">
+<text id="l3" class="lit" x="0" y="57.11" textLength="374.4" lengthAdjust="spacingAndGlyphs">                                     .`..`......</text>
+<text id="l4" class="lit" x="0" y="72.06" textLength="390.0" lengthAdjust="spacingAndGlyphs">                                 .====+::+++==*c+:</text>
+<text id="l5" class="lit" x="0" y="87.01" textLength="436.8" lengthAdjust="spacingAndGlyphs">                                -#@s+**+=+cs#s++c*++=-=`</text>
+<text id="l6" class="lit" x="0" y="101.96" textLength="460.2" lengthAdjust="spacingAndGlyphs">                               -*%@%@@%%%%%%%@%ssscss**===`</text>
+<text id="l7" class="lit" x="0" y="116.91" textLength="475.8" lengthAdjust="spacingAndGlyphs">                              `=+s###%@@@@@@@@@@@%s#####*=+*.</text>
+<text id="l8" class="lit" x="0" y="131.86" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              -+ccs#%%sc**+++*c#%@@###%sc**cs`</text>
+<text id="l9" class="lit" x="0" y="146.81" textLength="483.6" lengthAdjust="spacingAndGlyphs">                             `%%%%@%*`          `-*#@@%%%%%#sc</text>
+<text id="l10" class="lit" x="0" y="161.76" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             :@@@@@-              .:+s%%@%#%#%c</text>
+<text id="l11" class="lit" x="0" y="176.71" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             `%@@#-..                 `=c@@%%%s</text>
+<text id="l12" class="lit" x="0" y="191.66" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             .#%c  .`-=*c*=.     .=*=----+s%@@-</text>
+<text id="l13" class="lit" x="0" y="206.61" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              s#. :=*csssss*=:``-+cc*+==+: *@c</text>
+<text id="l14" class="lit" x="0" y="221.56" textLength="475.8" lengthAdjust="spacingAndGlyphs">                              -c=cs#s#sccs%%%+`+s##*=+cc+#*c=</text>
+<text id="l15" class="lit" x="0" y="236.51" textLength="475.8" lengthAdjust="spacingAndGlyphs">                               #c*+ccs%@@#s*+   -c#@@#c+=-=s:</text>
+<text id="l16" class="lit" x="0" y="251.46" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              .*``.:===*+-:=.    .`-=-`.`  :+:</text>
+<text id="l17" class="lit" x="0" y="266.41" textLength="491.4" lengthAdjust="spacingAndGlyphs">                             s*:::`... . .`.``...         ```s.</text>
+<text id="l18" class="lit" x="0" y="281.36" textLength="491.4" lengthAdjust="spacingAndGlyphs">                            :#=+-=-:.    .=%@%##%s`..    `:::=.</text>
+<text id="l19" class="lit" x="0" y="296.31" textLength="483.6" lengthAdjust="spacingAndGlyphs">                             :---+++==-:  :**s#c=-. .```:--:``</text>
+<text id="l20" class="lit" x="0" y="311.26" textLength="483.6" lengthAdjust="spacingAndGlyphs">                              -.=**ccc*:-scssc*cc*+c-.:=+-==..</text>
+<text id="l21" class="lit" x="0" y="326.21" textLength="475.8" lengthAdjust="spacingAndGlyphs">                               -+**ccc=-+ss+:::::-*#s-:=+=+=.</text>
+<text id="l22" class="lit" x="0" y="341.16" textLength="460.2" lengthAdjust="spacingAndGlyphs">                                 :cccc+*=`:+cs##s=``=++*++=</text>
+<text id="l23" class="lit" x="0" y="356.11" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                  cscss*-:`::--::````=***c</text>
+<text id="l24" class="lit" x="0" y="371.06" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                  :#%##s-```````.``.:*cs#=</text>
+<text id="l25" class="lit" x="0" y="386.01" textLength="452.4" lengthAdjust="spacingAndGlyphs">                                   +#@@%sss#ssssscc*s%@@*.</text>
+<text id="l26" class="lit" x="0" y="400.96" textLength="460.2" lengthAdjust="spacingAndGlyphs">                                   -+s%@@@@@@@@@@@@@@@s=.:.</text>
+<text id="l27" class="lit" x="0" y="415.91" textLength="468.0" lengthAdjust="spacingAndGlyphs">                                   ::-*s#@@@@@@@@%#c+:..-+*`</text>
+<text id="l28" class="lit" x="0" y="430.86" textLength="491.4" lengthAdjust="spacingAndGlyphs">                                  -+:::-=*s#%%#c*=:`. .=c+c-.`.</text>
+<text id="l29" class="lit" x="0" y="445.81" textLength="522.6" lengthAdjust="spacingAndGlyphs">                                 .*cc+:`.`=*csc*=:.  :cs*+#=.``````</text>
+<text id="l30" class="lit" x="0" y="460.76" textLength="561.6" lengthAdjust="spacingAndGlyphs">                               .::+ccss*-```-=-:`..-csc***%+``````--::`.</text>
+<text id="l31" class="lit" x="0" y="475.71" textLength="592.8" lengthAdjust="spacingAndGlyphs">                         ```::::::=#c#@@#c*+=----+ssc++++c@+:::::``--::::``.</text>
+<text id="l32" class="lit" x="0" y="490.66" textLength="616.2" lengthAdjust="spacingAndGlyphs">                     .`:````:---::-#s%@@@@%##s#ssscsss##s#%=:::--:``:----:````.</text>
+<text id="l33" class="lit" x="0" y="505.61" textLength="639.6" lengthAdjust="spacingAndGlyphs">                ..`:---::-::------:s%#ss#%@@sssss#@@@@@@%s%=::::----==-==-:::```..</text>
+<text id="l34" class="lit" x="0" y="520.56" textLength="694.2" lengthAdjust="spacingAndGlyphs">         .````::----:.:===-======-:c@@@@@%##%%%%@@@@@@@%@#%=::::-=-  :+-=----::::``````:.</text>
+<text id="l35" class="lit" x="0" y="535.51" textLength="694.2" lengthAdjust="spacingAndGlyphs">       `-::::-===-:``:+=---==+++=-:+@##ccs%@@@@@@@@%%@@@%s%=:::--=+`.:--=---------::::-:=</text>
+<text id="l36" class="lit" x="0" y="550.46" textLength="694.2" lengthAdjust="spacingAndGlyphs">      ::--`:---::`:-+*c+-===+*++=-::#@%%@@@%%s**s%@%ss%@@%%=::::-==`+-:=+=========--=-+==</text>
+<text id="l37" class="lit" x="0" y="565.41" textLength="702.0" lengthAdjust="spacingAndGlyphs">      ----:------=+****c-=++**+==-::c#ssccc**c=+++cs#%%#s%#=:::::=:.=--+=======+++++++c+*.</text>
+<text id="l38" class="lit" x="0" y="580.36" textLength="702.0" lengthAdjust="spacingAndGlyphs">      ::-=-=====++++++==+=++*++==-:`+s**++==+c**+++==++**ss-:::::=.`=-=+=====+*++****cc+%c</text>
+<text id="l39" class="lit" x="0" y="595.31" textLength="702.0" lengthAdjust="spacingAndGlyphs">     `:-=+=+++++=====-::+++++++==-:`-sc*+===+*====-===+**ss:::-=-= :=-=+====+*cc*ccsc#cc*-</text>
+<text id="l40" class="lit" x="0" y="610.26" textLength="702.0" lengthAdjust="spacingAndGlyphs">    `-==+*+++++++=-::::-**=+++===--``cs*++===*=:`+++==+**#c:::=++-.---+=====+*csssss##ss*=</text>
+<text id="l41" class="lit" x="0" y="625.21" textLength="709.8" lengthAdjust="spacingAndGlyphs">   `:==++c***+++=----=+**s+======--:`*sc*+==+#c*+===-=+*c#*`::-+=:`=-==--=====*ssss#%sssc*`</text>
+<text id="l42" class="lit" x="0" y="640.16" textLength="709.8" lengthAdjust="spacingAndGlyphs">  `:-==++cc**+====++****+*c===--==-:`=#s+=+c#@*===+++++*c#+`:-=---:=-+---======*sss#%ssc*+-</text>
+<text id="l43" class="lit" x="0" y="655.11" textLength="709.8" lengthAdjust="spacingAndGlyphs"> .:--==+*cs**+++***+++==--*+-----==-``#s*s#%##c=====+**csc+`:---=`=-==---===++==*ss##ss***=</text>
+<text id="l44" class="lit" x="0" y="670.06" textLength="709.8" lengthAdjust="spacingAndGlyphs"> ::-==++cs#c**cc**++=-----=c=----==-:`+%%%#ss#s++++==**sc*-:--=+`---=---=====+***cs#sssc**=</text>
+<text id="l45" class="lit" x="0" y="685.01" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-=+**ccs%cccc***++=======**:-------`:#%#ssc#s+**cc**cs+c-:---:==:=+===+++++***cc##ssc***=.</text>
+<text id="l46" class="lit" x="0" y="699.96" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-=+cssss%sccc***+++++==---*=::-----``+#sssc##ccsccss#*+*``:::==:-+=+++*****ccc*c#scc*++*=.</text>
+<text id="l47" class="lit" x="0" y="714.91" textLength="717.6" lengthAdjust="spacingAndGlyphs">`:-==+csss%s*c**++++===--::::*-:::---:`-*#ssc#%##%###%#=s*`:------++=+****+*++***s@c+sc=:-=`</text>
+<text id="l48" class="lit" x="0" y="729.86" textLength="717.6" lengthAdjust="spacingAndGlyphs">`::-=-:=*#@#**+++======--:--:=*::-----`--cscss#s*-%%%%+*#+.::----+*+=====--=++***%@#-*#s=.::</text>
+<text id="l49" class="lit" x="0" y="744.81" textLength="717.6" lengthAdjust="spacingAndGlyphs">`.`---+***#%**+==--------==---*+::----``+=@@@@@@%c#s#**s#-`:-----+++++++++===+*cs%@%*:*ss=.`</text>
+<text id="l50" class="lit" x="0" y="759.76" textLength="717.6" lengthAdjust="spacingAndGlyphs">..-=====-c@@*+=-::------======-*=:---=-.+-*@@@@##%%@s+sss`:--===***ccscc*+++*cc*s@@@#-:+s#=.</text>
+<text id="l51" class="lit" x="0" y="774.71" textLength="717.6" lengthAdjust="spacingAndGlyphs"> -=-==+=*#%@c++=--:-=+++++***+==c=:----`:*`s@@@sss#s+cc#=`--=+=cs##ssc*=-=+cc*++%@@%%c`.=*s=</text>
+<text id="l52" class="lit" x="0" y="789.66" textLength="717.6" lengthAdjust="spacingAndGlyphs">:==+**+=*#@@s+++++=--=*cccsssscccs--==-:`+=:#%%ccc*=*ccc:--=++*%#sc*+-::+*cc*+=*@@@%#s+..:+s</text>
+<text id="l53" class="lit" x="0" y="804.61" textLength="717.6" lengthAdjust="spacingAndGlyphs">++**+-.=s%@@%+*cc*++=---+*cccssss#s--===`-=:-s#cc+=***s=:===++#sc*=-::-+cc*+==-#@@@#ssc=..`=</text>
+<text id="l54" class="lit" x="0" y="819.56" textLength="717.6" lengthAdjust="spacingAndGlyphs">+++-. =#%@@@@*csc****+-``:-==+**cc#s-=++-`-:-=%@s+***cc`====+c*=-:``-+ccc+=---+@@@@#sccc=...</text>
+<text id="l55" class="lit" x="0" y="834.51" textLength="717.6" lengthAdjust="spacingAndGlyphs">==: .+###%@@@ccc*******=-::::::--=+sc-=+=`:==+cc==+*cs-:=+=+*+-:`:-+csc*+---=-s@@@%#c+*ss+..</text>
+<text id="l56" class="lit" x="0" y="849.46" textLength="717.6" lengthAdjust="spacingAndGlyphs">+- `*scc#%@@@scc******c*+=-::::`:::-c*-++-`=++==-=*cs*`=+++*=:::=+cssc++=---==@@@@%#s=-+s#+`</text>
+<text id="l57" class="lit" x="0" y="864.41" textLength="717.6" lengthAdjust="spacingAndGlyphs">` `*c**s#%@@@sssc*****c***+==--:````:**-++::c+cs%%scc:-+++*=:-=*sssc*+=======*@@@%###*``-cs*</text>
+<text id="l58" class="lit" x="0" y="879.36" textLength="717.6" lengthAdjust="spacingAndGlyphs"> .+****c#%@@@ssscc**ccc******++=-:::``+*-==:cc%@#**s+`===*=:-+cs#sc++++++====s@@%%####*: `+c</text>
+<text id="l59" class="lit" x="0" y="894.31" textLength="717.6" lengthAdjust="spacingAndGlyphs">`=*****c#%@@@###ssc*ccc*********+=--:::+*-=--c**=+s#:===*+=+*cssscc***+++==++ c@#######s+` `</text>
+<text id="l60" class="lit" x="0" y="909.26" textLength="717.6" lengthAdjust="spacingAndGlyphs">=+*****cs%@@@****cccsssc******++====--::*c-=:*cc#%@+:==**+*ccss#ssc**+++=+++: s%####%%@@@%s+</text>
+<text id="l61" class="lit" x="0" y="924.21" textLength="717.6" lengthAdjust="spacingAndGlyphs">+*ccc***s@@@* =--=+css#sccc****++==----=+#s--=#sc#s`=-**+*cssssscc*+++++*+=- .%#scssssssssss</text>
+<text id="l62" class="lit" x="0" y="939.16" textLength="717.6" lengthAdjust="spacingAndGlyphs">*c*=:::=#@@@  -+`::-=*csssc****++=====+++*%#-:ccc%-:-*c+*cssssc***++**+++=-:`%@@@%%%%#sc=...</text>
+<text id="l63" class="lit" x="0" y="954.11" textLength="717.6" lengthAdjust="spacingAndGlyphs">+-:`..`c%@@c  `+=``.``-+csccc*+++++++++*++c@#-=%@c.:+c**ssscc*++++*****++-`:.#@@@@@@%#s*+***</text>
+</g>
+</svg>

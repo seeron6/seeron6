@@ -29,17 +29,17 @@
 <line class="rule" x1="24" y1="50" x2="336" y2="50" stroke-width="1"/>
 <clipPath id="barclip"><rect x="24" y="70" width="312" height="11" rx="5.5"/></clipPath>
 <g clip-path="url(#barclip)">
-<rect x="24.0" y="70" width="275.0" height="11" fill="#3572A5"/>
-<rect x="298.4" y="70" width="20.0" height="11" fill="#f34b7d"/>
-<rect x="317.8" y="70" width="8.8" height="11" fill="#fedf5b"/>
-<rect x="326.0" y="70" width="5.6" height="11" fill="#3178c6"/>
-<rect x="331.0" y="70" width="3.4" height="11" fill="#f1e05a"/>
-<rect x="333.8" y="70" width="2.8" height="11" fill="#555555"/>
+<rect x="24.0" y="70" width="278.2" height="11" fill="#3572A5"/>
+<rect x="301.6" y="70" width="20.3" height="11" fill="#f34b7d"/>
+<rect x="321.3" y="70" width="8.7" height="11" fill="#fedf5b"/>
+<rect x="329.4" y="70" width="4.3" height="11" fill="#3178c6"/>
+<rect x="333.2" y="70" width="3.1" height="11" fill="#555555"/>
+<rect x="335.7" y="70" width="0.9" height="11" fill="#f1e05a"/>
 </g>
-<g class="rv" id="g0"><circle cx="29.0" cy="100" r="5.5" fill="#3572A5"/><text class="label" x="42.0" y="104">Python</text><text class="muted" x="166.0" y="104" text-anchor="end">87.5%</text></g>
-<g class="rv" id="g1"><circle cx="185.0" cy="100" r="5.5" fill="#f34b7d"/><text class="label" x="198.0" y="104">C++</text><text class="muted" x="322.0" y="104" text-anchor="end">6.2%</text></g>
+<g class="rv" id="g0"><circle cx="29.0" cy="100" r="5.5" fill="#3572A5"/><text class="label" x="42.0" y="104">Python</text><text class="muted" x="166.0" y="104" text-anchor="end">88.9%</text></g>
+<g class="rv" id="g1"><circle cx="185.0" cy="100" r="5.5" fill="#f34b7d"/><text class="label" x="198.0" y="104">C++</text><text class="muted" x="322.0" y="104" text-anchor="end">6.3%</text></g>
 <g class="rv" id="g2"><circle cx="29.0" cy="126" r="5.5" fill="#fedf5b"/><text class="label" x="42.0" y="130">Cython</text><text class="muted" x="166.0" y="130" text-anchor="end">2.6%</text></g>
-<g class="rv" id="g3"><circle cx="185.0" cy="126" r="5.5" fill="#3178c6"/><text class="label" x="198.0" y="130">TypeScript</text><text class="muted" x="322.0" y="130" text-anchor="end">1.6%</text></g>
-<g class="rv" id="g4"><circle cx="29.0" cy="152" r="5.5" fill="#f1e05a"/><text class="label" x="42.0" y="156">JavaScript</text><text class="muted" x="166.0" y="156" text-anchor="end">0.9%</text></g>
-<g class="rv" id="g5"><circle cx="185.0" cy="152" r="5.5" fill="#555555"/><text class="label" x="198.0" y="156">C</text><text class="muted" x="322.0" y="156" text-anchor="end">0.7%</text></g>
+<g class="rv" id="g3"><circle cx="185.0" cy="126" r="5.5" fill="#3178c6"/><text class="label" x="198.0" y="130">TypeScript</text><text class="muted" x="322.0" y="130" text-anchor="end">1.2%</text></g>
+<g class="rv" id="g4"><circle cx="29.0" cy="152" r="5.5" fill="#555555"/><text class="label" x="42.0" y="156">C</text><text class="muted" x="166.0" y="156" text-anchor="end">0.8%</text></g>
+<g class="rv" id="g5"><circle cx="185.0" cy="152" r="5.5" fill="#f1e05a"/><text class="label" x="198.0" y="156">JavaScript</text><text class="muted" x="322.0" y="156" text-anchor="end">0.1%</text></g>
 </svg>

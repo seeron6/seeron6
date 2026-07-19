@@ -2,20 +2,20 @@
   "user": "seeron6",
   "name": "Seeron Sivashankar",
   "stars": 0,
-  "repos": 27,
+  "repos": 19,
   "followers": 1,
   "commits_year": 226,
-  "prs": 65,
+  "prs": 3,
   "issues": 0,
   "languages": [
     {
       "name": "Python",
-      "pct": 87.5,
+      "pct": 88.9,
       "color": "#3572A5"
     },
     {
       "name": "C++",
-      "pct": 6.2,
+      "pct": 6.3,
       "color": "#f34b7d"
     },
     {
@@ -25,18 +25,18 @@
     },
     {
       "name": "TypeScript",
-      "pct": 1.6,
+      "pct": 1.2,
       "color": "#3178c6"
     },
     {
-      "name": "JavaScript",
-      "pct": 0.9,
-      "color": "#f1e05a"
+      "name": "C",
+      "pct": 0.8,
+      "color": "#555555"
     },
     {
-      "name": "C",
-      "pct": 0.7,
-      "color": "#555555"
+      "name": "JavaScript",
+      "pct": 0.1,
+      "color": "#f1e05a"
     }
   ]
 }

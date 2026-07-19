@@ -1,6 +1,0 @@
-# Toolchain for regenerating the ASCII portrait SVG.
-pillow
-numpy
-opencv-python-headless
-rembg
-onnxruntime

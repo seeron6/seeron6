@@ -9,7 +9,6 @@ I'm a **Founding Software Engineer @ SciMynd** and a Computer Engineering studen
 🎓 Computer Engineering @ University of Toronto (2024–2028) <br>
 🛠️ Founding Software Engineer @ SciMynd · Studio, Dashboards & AI eval pipelines <br>
 🏆 Hackathon wins: LA Hacks, GenAI Genesis & Hack Canada <br>
-🚀 Next up: Y Combinator Startup School <br>
 🧠 Finding ways to break the limits <br>
 
 <br clear="both"/>

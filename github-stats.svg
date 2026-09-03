@@ -26,7 +26,7 @@
 <rect class="panel" x="1" y="1" width="478" height="198" rx="10" stroke-width="1.5"/>
 <text class="title" x="24" y="36">Seeron Sivashankar’s GitHub Stats</text>
 <line class="rule" x1="24" y1="50" x2="456" y2="50" stroke-width="1"/>
-<g class="rv" id="s0"><circle class="accent" cx="29" cy="75" r="3.5"/><text class="label" x="42" y="80">Commits (last year)</text><text class="value" x="456" y="80" text-anchor="end">271</text></g>
+<g class="rv" id="s0"><circle class="accent" cx="29" cy="75" r="3.5"/><text class="label" x="42" y="80">Commits (last year)</text><text class="value" x="456" y="80" text-anchor="end">273</text></g>
 <g class="rv" id="s1"><circle class="accent" cx="29" cy="98" r="3.5"/><text class="label" x="42" y="103">Pull Requests</text><text class="value" x="456" y="103" text-anchor="end">3</text></g>
 <g class="rv" id="s2"><circle class="accent" cx="29" cy="121" r="3.5"/><text class="label" x="42" y="126">Public Repositories</text><text class="value" x="456" y="126" text-anchor="end">19</text></g>
 <g class="rv" id="s3"><circle class="accent" cx="29" cy="144" r="3.5"/><text class="label" x="42" y="149">Stars Earned</text><text class="value" x="456" y="149" text-anchor="end">0</text></g>
